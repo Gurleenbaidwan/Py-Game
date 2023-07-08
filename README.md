@@ -6,8 +6,9 @@ Create a Blob game using PyGame , random
 
 
 ## Screenshots
-![App Screenshot](https://github.com/Gurleenbaidwan/Py-Game/blob/main/images/Screenshot%202023-07-08%20at%202.00.35%20PM.png)
-![App Screenshot](https://github.com/Gurleenbaidwan/Py-Game/blob/main/images/Screenshot%202023-07-08%20at%202.00.55%20PM.png)
+![App Screenshot](https://github.com/Gurleenbaidwan/Py-Game/blob/main/images/image1.png)
+![App Screenshot](https://github.com/Gurleenbaidwan/Py-Game/blob/main/images/image2.png)
+![App Screenshot](https://github.com/Gurleenbaidwan/Py-Game/blob/main/images/image3.png)
 
 
 ## 🚀 About Me
